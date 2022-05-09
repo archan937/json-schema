@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const port = 9797;
 
-const pathPrefix = '/bettyblocks/json-schema/master';
+const pathPrefix = '/archan937/json-schema/master';
 
 http.createServer((request, response) => {
 
